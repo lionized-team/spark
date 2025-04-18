@@ -9,7 +9,7 @@ SPARK — Shop Process Activity & Real-time Kit.
 Система, позволяющая разработчикам собирать действия пользователей (например, клики, переходы, заполнение форм), анализировать их в реальном времени и предоставлять удобный API/интерфейс для выгрузки аналитики или триггерных уведомлений.
 
 Технологии:
-1. Backend: Golang, Apache Kafka, PostgreSQL.
+1. Backend: Golang, Apache Kafka, PostgreSQL, Redis
 2. Frontend: Next.js + Gravity UI.
 
 ## Структура проекта
